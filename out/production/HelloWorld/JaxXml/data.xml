@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+  <response>
+        <applicationScoreDate>2019-10-22</applicationScoreDate>
+        <applicationScoreCard>
+            <correlationid>123456</correlationid>
+            <creditCaseId>1</creditCaseId>
+            <party1>
+                <id>1</id>
+                <applicationScoreCardOutput>
+                    <applicationScore>417</applicationScore>
+                    <riskgrade> C </riskgrade>
+
+                    <scoreOutput1>
+                        <applicationScore>417</applicationScore>
+                        <countrycode>DK</countrycode>
+                        <element1>
+                            <classingName>0</classingName>
+                            <classingValue>0</classingValue>
+                            <name>Coapp_monthIncomebefTax</name>
+                            <score>0</score>
+                        </element1>
+                        <element2>
+                            <classingName>(0:19000)</classingName>
+                            <classingValue>2000</classingValue>
+                            <name>loanRemaining</name>
+                            <score>3</score>
+                        </element2>
+                    </scoreOutput1>
+
+                </applicationScoreCardOutput>
+            </party1>
+        </applicationScoreCard>
+  </response>
+
